@@ -1,0 +1,36 @@
+.hero{
+  margin-top: 20px;
+}
+
+.card-img {
+  height: 750px;
+  object-fit: cover;
+  background-attachment: fixed;
+}
+
+.overlay {
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.1));
+  color: #f0f0f0;
+  text-align: center;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 100%;
+}
+
+.title {
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+}
+
+.subtitle {
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.7);
+}
+
+.homePage{
+  background:rgba(221, 202, 166, 0.541);
+}

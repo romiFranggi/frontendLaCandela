@@ -1,0 +1,12 @@
+.registerPage{
+    background: rgba(221, 202, 166, 0.541);
+}
+
+.custom-link {
+    color: #0655a3; 
+    text-decoration: underline; 
+}
+
+.custom-link:hover {
+    color: #001a33; 
+}
